@@ -21,8 +21,8 @@
         <coupon_codes>20</coupon_codes> <!-- Number of coupon codes -->
 
         <product_attribute_sets>2</product_attribute_sets> <!-- Number of product attribute sets -->
-        <product_attribute_sets_attributes>30</product_attribute_sets_attributes> <!-- Number of attributes per set -->
-        <product_attribute_sets_attributes_values>1000</product_attribute_sets_attributes_values> <!-- Number of values per attribute -->
+        <product_attribute_sets_attributes>10</product_attribute_sets_attributes> <!-- Number of attributes per set -->
+        <product_attribute_sets_attributes_values>100000</product_attribute_sets_attributes_values> <!-- Number of values per attribute -->
 
         <order_quotes_enable>true</order_quotes_enable>
         <order_simple_product_count_from>2</order_simple_product_count_from>
