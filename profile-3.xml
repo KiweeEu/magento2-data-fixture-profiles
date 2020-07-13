@@ -12,7 +12,7 @@
             <images-per-product>3</images-per-product>
         </product-images>
         <categories>60000</categories> <!-- Number of categories to generate -->
-        <categories_nesting_level>3</categories_nesting_level> <!-- Nesting level for categories -->
+        <categories_nesting_level>4</categories_nesting_level> <!-- Nesting level for categories -->
         <customers>200000</customers> <!-- Number of customers to generate -->
 
         <catalog_price_rules>20</catalog_price_rules> <!-- Number of catalog price rules -->
